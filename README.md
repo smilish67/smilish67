@@ -1,8 +1,3 @@
-# 안녕하세요.
-
-## 소개
-
-
 ## 🎓 학력
 **제주대학교** (2019 - 재학 중)
 - 경영학 & 컴퓨터공학 복수전공
@@ -50,10 +45,6 @@
 
 ## 📊 GitHub 통계
 [![GitHub 통계](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)](https://github.com/yourusername)
-
-## 📫 연락처
-- 이메일: your.email@example.com
-- 링크드인: [LinkedIn 프로필](https://www.linkedin.com/in/yourusername/)
 
 ## 🌱 현재 배우고 있는 것
 - 대규모 언어 모델 (LLM) 응용 개발
