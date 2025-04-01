@@ -1,24 +1,19 @@
 🏆 Experience
 🔹 Internships
 - 안랩 / 연구혁신팀 (Intern) (2022.07 ~ 2022.08)
--- 내부망 Kubernetes 환경에서 CI/CD 구축 연구
+  - 내부망 Kubernetes 환경에서 CI/CD 구축 연구
   
 - 웨이플러스 (Intern) (2020.12 ~ 2021.2)
--- 제주 날씨별 관광지 추천 챗봇 개발
+  - 제주 날씨별 관광지 추천 챗봇 개발
 
-🔹 Awards
-🥈 교내 SW 캡스톤 경진대회 우수상
-
-🏆 SW 중심대학 공동창업캠프 대상
-
-🥇 GALA 패스트캠퍼스 AI 공모전 최우수상
-
-🏅 NIPA x Google ML 부트캠프 실무 프로젝트 대상
+🏆 Awards
+- 교내 SW 캡스톤 경진대회 우수상
+- SW 중심대학 공동창업캠프 대상
+- GALA 패스트캠퍼스 AI 공모전 최우수상
+- NIPA x Google ML 부트캠프 실무 프로젝트 대상
 
 
 🔹 Education
 🎓 제주대학교 – 경영학, 컴퓨터공학 복수전공 (2019 ~)
-
 📌 Google 머신러닝 부트캠프 (2024.05 ~ 2024.10)
-
 📌 KT AIVLE 스쿨 (2025.03 ~ 2025.09)
