@@ -1,4 +1,4 @@
-🏆 Experience
+🎢 Experience
 - 안랩 / 연구혁신팀 (Intern) (2022.07 ~ 2022.08)
   - 내부망 Kubernetes 환경에서 CI/CD 구축 연구
   
