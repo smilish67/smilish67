@@ -1,3 +1,9 @@
+# 안녕하세요.
+
+## 소개
+
+
+## 🎓 학력
 **제주대학교** (2019 - 재학 중)
 - 경영학 & 컴퓨터공학 복수전공
 
@@ -6,7 +12,6 @@
 - Google 머신러닝 부트캠프 (2024.05 - 2024.10)
 
 ## 💼 경력
-
 ### 안랩 | 연구혁신팀 (인턴)
 **2022.07 - 2022.09**
 - 내부망 Kubernetes 환경에서 CI/CD 구축 연구
@@ -18,8 +23,7 @@
 - 제주 날씨에 따른 맞춤 관광지 추천 챗봇 개발 (카카오 오픈빌더)
 - 챗봇 자연어 처리(NLU) 및 대화 흐름 설계
 
-## 🏆 프로젝트
-
+## 🏆 주요 프로젝트
 ### 블록체인 기반 설문 리워드 및 설문 데이터 NFT 거래 플랫폼
 - **수상**: 교내 SW 캡스톤 경진대회 우수상
 - **수상**: SW 중심대학(제주, 선문, 호서) 공동창업캠프 대상
@@ -34,3 +38,25 @@
 ### 다국어 회의록 요약 서비스
 - **수상**: NIPA x Google ML 부트캠프 실무 프로젝트 대상
 - 다국어 음성 인식 및 요약을 위한 AI 기반 자동화 시스템 개발
+
+## 🛠️ 기술 스택
+### 언어
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 프레임워크 & 도구
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## 📊 GitHub 통계
+[![GitHub 통계](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)](https://github.com/yourusername)
+
+## 📫 연락처
+- 이메일: your.email@example.com
+- 링크드인: [LinkedIn 프로필](https://www.linkedin.com/in/yourusername/)
+
+## 🌱 현재 배우고 있는 것
+- 대규모 언어 모델 (LLM) 응용 개발
+- MLOps 및 클라우드 인프라 구축
+
+---
