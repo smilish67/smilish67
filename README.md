@@ -11,7 +11,7 @@
 ## 🏆 Project
 - **블록체인 기반 설문 리워드 및 데이터 NFT거래 플랫폼** - 교내 SW 캡스톤 우수상, SW중심대학 공동창업캠프 대상
 - **시각장애인을 위한 AI, 웹툰을 오디오 드라마로** - GALA 패스트캠퍼스 AI 공모전 최우수상
-- **다국어 회의록 요약 서비스** - NIPA/Google ML 부트캠프 실무 프로젝트 대상
+- **다국어 회의록 요약 서비스** - NIPA/Google ML 부트캠프 실무 프로젝트
 
 ## 🛠️ Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
