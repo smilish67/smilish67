@@ -1,7 +1,6 @@
 ## Introduction
 - AI 모델이 안정적으로 작동하는 환경을 설계하고, 신뢰할 수 있는 데이터 파이프라인과 인프라를 구축하는 데 관심 있는 소프트웨어 엔지니어입니다.
 
-
 ## 🎓 Education
 - 제주대학교 경영학 & 컴퓨터공학 복수전공 (2019~)
 - KT AIVLE 스쿨 / Google ML 부트캠프 수료
@@ -15,7 +14,7 @@
 ## 🏆 Project
 - **블록체인 기반 설문 리워드 및 데이터 NFT거래 플랫폼** - 교내 SW 캡스톤 우수상, SW중심대학 공동창업캠프 대상
 - **시각장애인을 위한 AI, 웹툰을 오디오 드라마로** - GALA 패스트캠퍼스 AI 공모전 최우수상
-- **다국어 회의록 요약 서비스** - NIPA/Google ML 부트캠프 실무 프로젝트
+- **다국어 회의록 요약 서비스** - NIPA/Google ML 부트캠프 실무 프로젝트 대상 (1위/ 5팀 참여)
 
 ## 🛠️ Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
