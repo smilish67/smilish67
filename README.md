@@ -1,9 +1,10 @@
 ## Introduction
-- AI 모델이 안정적으로 작동하는 환경을 설계하고 인프라를 구축하는 데 관심 있는 소프트웨어 엔지니어입니다.
+- AI 모델이 안정적으로 동작하는 환경을 설계하고, 클라우드 인프라를 구축하는 데 관심 있는 소프트웨어 엔지니어입니다.
 
 ## 🎓 Education
-- 제주대학교 경영학 & 컴퓨터공학 복수전공 (2019~)
-- KT AIVLE 스쿨 / Google ML 부트캠프 수료
+- 제주대학교 경영학 & 컴퓨터공학 복수전공 (2019~2025.8)
+- KT AIVLE 스쿨 (2025.3~2025.9)
+- Google ML 부트캠프 수료 (2024.6~2024.11)
 
 ## 💼 Experience
 - **안랩** 연구혁신팀 인턴 (2022.07-08, 2개월)
@@ -16,8 +17,15 @@
 - **시각장애인을 위한 AI, 웹툰을 오디오 드라마로** - GALA 패스트캠퍼스 AI 공모전 최우수상
 - **ModuLog 다국어 회의록 요약 서비스** - NIPA/Google ML 부트캠프 실무 프로젝트 대상 (1위/ 5팀 참여)
 
+## 🪪 Certification
+- KT AICE Associate
+- Microsoft Certified: Azure Developer Associate
+- 정보처리기사 필기
+
 ## 🛠️ Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Java-java)
+![Static Badge](https://img.shields.io/badge/Langchain-LangGraph-blue)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
