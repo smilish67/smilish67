@@ -34,7 +34,7 @@
 ## 🪪 Certification
 - KT AICE Associate
 - Microsoft Certified: Azure Developer Associate
-- 정보처리기사 필기
+- 정보처리기사 
 <br>
 
 ## 🛠️ Tools
