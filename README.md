@@ -1,6 +1,5 @@
 ## Introduction
-- AI 모델이 안정적으로 동작하는 환경을 설계하고, 클라우드 인프라를 구축하는 데 관심 있는 소프트웨어 엔지니어입니다.
-- 고객의 니즈를 최우선으로 생각하며, 이를 구현하기위해 필요한 것을 새로 학습하고 빠르게 시도해보는 것을 좋아합니다. 
+- Strongly interested in building agent system.
 <br>
 
 ## 🎓 Education
