@@ -1,7 +1,3 @@
-## Introduction
-- Strongly interested in building agent system.
-<br>
-
 ## 🎓 Education
 - 제주대학교 경영학 & 컴퓨터공학 복수전공 (2019.3-2025.8)
 - KT AIVLE 스쿨 (2025.3-2025.9)
